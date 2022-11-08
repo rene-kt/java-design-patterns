@@ -1,4 +1,4 @@
-package creationals.factory.model;
+package creationals.factory;
 
 public abstract class Iphone {
     private String description;

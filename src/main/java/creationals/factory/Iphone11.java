@@ -1,4 +1,4 @@
-package creationals.factory.model;
+package creationals.factory;
 
 public class Iphone11 extends Iphone{
 

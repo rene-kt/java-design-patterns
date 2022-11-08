@@ -1,4 +1,4 @@
-package creationals.factory.model;
+package creationals.factory;
 
 import java.util.Scanner;
 
@@ -11,6 +11,7 @@ public class Main {
         else  obj = new Iphone12();
 
         // Do this instead
-        obj = IphoneFactory.getInstance(12);
+        obj = IphoneFactory.getInstance(11);
+        System.out.println(obj);
     }
 }
